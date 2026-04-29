@@ -2,7 +2,7 @@
 
 A modern, high-performance developer portfolio showcasing my work in full-stack development, machine learning, and interactive web experiences.
 
-🔗 Live Portfolio: (add your link here)
+🔗 Live Portfolio: (https://aishwaryasingh-portfolio.netlify.app/)
 
 🚀 About This Portfolio
 
