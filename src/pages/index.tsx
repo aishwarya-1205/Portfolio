@@ -211,7 +211,7 @@ export default function Home() {
                   <br />
                 </span>
                 <span className="clash-grotesk text-gradient text-6xl 2xl:text-8xl">
-                  WendoJ.
+                  Aishwarya Singh.
                 </span>
               </h1>
               <p
