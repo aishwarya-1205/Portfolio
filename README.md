@@ -1,55 +1,99 @@
-# 🖥️ Personal Portfolio
+🖥️ Aishwarya Singh — Portfolio
 
-A sleek, modern, and responsive portfolio bootstrapped with [create-t3-app](https://create.t3.gg/).
+A modern, high-performance developer portfolio showcasing my work in full-stack development, machine learning, and interactive web experiences.
 
-[Website Preview](https://github.com/wendoj/portfolio/assets/77996774/b73b02d7-0657-41e3-9124-e6d04b17fe93)
+🔗 Live Portfolio: (add your link here)
 
-[🔗 Link to portfolio](https://wendoj.vercel.app)
+🚀 About This Portfolio
 
-All you need to know about me, my projects and skills can be found here. Personalize the portfolio by modifying `src/pages/index.tsx` and `src/styles/globals.css` to emulate your own portfolio. Made some improvements and want to share? Open a pull request.
-For any issues, feel free to report them here.
+This portfolio is designed to present my projects, skills, and experience in a clean, interactive, and user-focused way. It emphasizes real-world applications, performance, and modern UI/UX practices.
 
-## 🎉 Features
-- **Responsive Design**: The portfolio is designed to be fully responsive, providing an optimal viewing experience across a wide range of devices from desktops to mobile phones.
-- **Easy Customization**: The portfolio structure is straightforward and well organized, making it easy to customize and showcase your unique set of skills and projects.
-- **Stunning UI/UX Design**: The portfolio boasts a sleek and modern design, using smooth animations to capture the attention of potential employers or clients.
-- **Interactive UI**: Utilizing modern web development techniques, the portfolio offers an interactive user interface that enhances user experience, such as `locomotive-scroll` and `framer-motion`.
+Unlike generic templates, this portfolio has been customized with my own projects, branding, and content.
 
-## 🚀 Getting Started
+✨ Featured Projects
+🧠 NeuroSim
+AI-powered neural simulation platform for modeling and analyzing brain-like architectures
+🔗 https://neurosim-1.onrender.com/
+📚 PrepDew
+Placement preparation platform with structured learning, tracking, and interview-focused resources
+🔗 https://prep-dew.vercel.app/
+🎮 GTA VI Experience
+Interactive landing page with immersive animations and modern UI design
+🔗 https://gta-vi-murex.vercel.app/
+☕ CozyCup
+Responsive cafe-style web application with clean UI/UX
+🔗 https://cozy-cup-8pjp.onrender.com/
+📊 Walmart Sales Analysis
+Data analytics dashboard built using Streamlit for visualizing sales trends
+🔗 https://walmartsales-analysis.streamlit.app/
+🧩 Tech Stack
 
-### Prerequisites
-To get started with this portfolio, ensure that you have the following installed on your system:
-- Node.js
-- npm
-- git
+Frontend
 
-## 🛠️ Installation
-Follow the steps below to clone and run this project on your local system:
+React.js
+Next.js
+TypeScript
+Tailwind CSS
 
-```bash
+Backend & Tools
+
+Node.js
+REST APIs
+Firebase / Databases
+
+Other
+
+Framer Motion (animations)
+Locomotive Scroll (smooth scrolling)
+Streamlit (data apps)
+🎯 Key Features
+⚡ Modern UI/UX with smooth animations
+📱 Fully responsive design across all devices
+🎯 Project-focused structure for quick recruiter scanning
+🧠 Real-world applications (AI, data, web apps)
+🚀 Optimized performance & clean architecture
+🛠️ Getting Started
+Prerequisites
+
+Make sure you have:
+
+Node.js
+npm or yarn
+Git
+Installation
+
 # Clone the repository
-$ git clone https://github.com/wendoj/developer-portfolio.git
 
-# Navigate to the project directory
-$ cd developer-portfolio
+git clone <your-repo-link>
 
-# Remove current origin repository
-$ git remote remove origin
-```
+# Navigate into the project
 
-<br />
+cd <your-project-folder>
 
-Then install the required dependencies:
-```bash
 # Install dependencies
-$ npm install
 
-# Start the development server:
-$ npm run dev
-```
-Now, open your browser and navigate to `http://localhost:3000` to view your portfolio live.
+npm install
 
+# Run the development server
 
-## How do I deploy this?
+npm run dev
 
-Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
+Visit:
+👉 http://localhost:3000
+
+🚀 Deployment
+
+You can deploy easily using:
+
+Vercel (recommended)
+Netlify
+📬 Contact
+
+If you’d like to collaborate, discuss opportunities, or just connect:
+
+📧 aishwaryasingh1205@gmail.com
+💼 https://www.linkedin.com/in/aishwarya-singh-056173252/
+
+⚠️ Note
+
+This portfolio was initially bootstrapped using a T3-based template, but has been heavily customized and extended with my own projects, structure, and design improvements.

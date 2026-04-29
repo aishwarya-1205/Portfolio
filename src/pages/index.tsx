@@ -35,34 +35,39 @@ const aboutStats = [
 
 const projects = [
   {
-    title: "Unqueue",
-    description: "E-commerce platform for selling digital products",
-    image: "/assets/unqueue.webm",
-    href: "https://unqueue.shop/",
+    title: "NeuroSim",
+    description:
+      "AI-powered neural simulation platform for modeling and analyzing brain-like architectures.",
+    image: "/assets/neurosim.png",
+    href: "https://neurosim-1.onrender.com/",
   },
   {
-    title: "InfiniteVPS",
-    description: "High performance VPS hosting solution",
-    image: "/assets/infinitevps.webm",
-    href: "#",
+    title: "PrepDew",
+    description:
+      "Placement preparation platform with structured resources, tracking, and practice modules.",
+    image: "/assets/prepdew.png",
+    href: "https://prep-dew.vercel.app/",
   },
   {
-    title: "TranslateBot",
-    description: "Powerful Multilingual Translation Bot for Discord",
-    image: "/assets/translate_bot.webm",
-    href: "https://translatebot.app/",
+    title: "GTA VI Experience",
+    description:
+      "Interactive landing page inspired by GTA VI with immersive UI, animations, and transitions.",
+    image: "/assets/gta.png",
+    href: "https://gta-vi-murex.vercel.app/",
   },
   {
-    title: "Wrona",
-    description: "Robotics-focused technology company",
-    image: "/assets/wrona.jpeg",
-    href: "https://www.wrona.com/",
+    title: "CozyCup",
+    description:
+      "Modern cafe-style web app with clean UI/UX and responsive design for food ordering.",
+    image: "/assets/cozycup.png",
+    href: "https://cozy-cup-8pjp.onrender.com/",
   },
   {
-    title: "This website",
-    description: "My personal website",
-    image: "/assets/portfolio.webm",
-    href: "https://github.com/wendoj/portfolio",
+    title: "Walmart Sales Analysis",
+    description:
+      "Data analytics dashboard using Streamlit to visualize and analyze Walmart sales trends.",
+    image: "/assets/walmart.png",
+    href: "https://walmartsales-analysis.streamlit.app/",
   },
 ];
 
@@ -215,8 +220,8 @@ export default function Home() {
                 data-scroll-speed=".06"
                 className="mt-1 max-w-lg tracking-tight text-muted-foreground 2xl:text-xl"
               >
-                An experienced full-stack website developer with a passion for
-                crafting unique digital experiences.
+                Full Stack Developer | ML Enthusiast | Building scalable,
+                user-focused web applications.
               </p>
             </div>
             <span
@@ -360,8 +365,14 @@ export default function Home() {
                           </Link>
                         </CardHeader>
                         <CardContent className="absolute bottom-0 w-full bg-background/50 backdrop-blur">
-                          <CardTitle className="border-t border-white/5 p-4 text-base font-normal tracking-tighter">
-                            {project.description}
+                          <CardTitle className="border-t border-white/5 p-4 text-base tracking-tight">
+                            <span className="font-semibold">
+                              {project.title}
+                            </span>
+                            <br />
+                            <span className="text-sm text-muted-foreground">
+                              {project.description}
+                            </span>
                           </CardTitle>
                         </CardContent>
                       </Card>
